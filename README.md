@@ -1,14 +1,13 @@
 # Hi there 👋
 
-My name is Luc-Ky Khuu and I am a software developer located in Orange County :orange:, California.  I love creating projects and seeing my work slowly come together.  My strongest programming language is JavaScript, but I am open to learning much more!  Aside from coding, I am also interested in are rock climbing :climbing:, fishing :fishing_pole_and_fish:, and cars :oncoming_automobile:.
+My name is Luc-Ky Khuu and I am a software developer located in Orange County :orange:, California.  I have a Bachelor's of Science degree in Biological Sciences 	:mortar_board: from the University of California, Irvine.  I love creating projects and seeing my work slowly come together.  My strongest programming language is JavaScript, but I am open to learning much more!  Aside from coding, I am also interested in are rock climbing :climbing:, fishing :fishing_pole_and_fish:, and cars :oncoming_automobile:.
 
 ## Let's Connect
+Feel free to connect with me and ask me any questions you might have!
+
 <a href='https://www.linkedin.com/in/luc-ky-khuu/'>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
 <a href='mailto: khuu96@gmail.com'>![khuu96@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-
 <a href='https://github.com/luc-ky-khuu'>![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
-
 <a href='https://app.codesignal.com/profile/luc-ky_k'>![CodeSignal](https://img.shields.io/badge/CodeSignal-blue/?style=for-the-badge&color=blue)</a>
 
 ## Technologies and tools
@@ -22,21 +21,7 @@ My name is Luc-Ky Khuu and I am a software developer located in Orange County :o
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+## My Stats
 [![Luc-Ky's GitHub stats](https://github-readme-stats.vercel.app/api?username=luc-ky-khuu&hide=contribs,stars&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luc-ky-khuu&exclude_repo=github-readme-stats,anuraghazra.github.io&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**luc-ky-khuu/luc-ky-khuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
