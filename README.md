@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Luc-Ky Khuu and I am a software developer located in Orange County :orange:, California.  I have a Bachelor's of Science degree in Biological Sciences 	:mortar_board: from the University of California, Irvine.  I love creating projects and seeing my work slowly come together.  My strongest programming language is JavaScript, but I am open to learning much more!  Aside from coding, I am also interested in are rock climbing :climbing:, fishing :fishing_pole_and_fish:, and cars :oncoming_automobile:.
+My name is Luc-Ky Khuu and I am a software developer located in Orange County :orange:, California.  I have a Bachelor's of Science degree in Biological Sciences 	:mortar_board: from the University of California, Irvine.  I love creating projects and seeing my work slowly come together.  My strongest programming language is JavaScript, but I am open to learning much more!  Aside from coding, I am also interested in are rock climbing :climbing:, fishing :fishing_pole_and_fish:, anime :tv:, and cars :oncoming_automobile:.
 
 ## Let's Connect
 Feel free to connect with me and ask me any questions you might have!
